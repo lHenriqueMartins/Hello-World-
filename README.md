@@ -10,7 +10,7 @@ Resumos sobre git e Github [Digital Innovation One](https://www.dio.me).
 | Aulas | Resumos |
 | ------|---------|
 Gravando alterações no Repositório Local
-[Resumos]() |
+[Resumo]() |
 
 ```
 Git Init
